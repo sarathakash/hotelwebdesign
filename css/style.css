@@ -155,7 +155,9 @@ h3 {
     height: 300px;
     padding: 50px;
 }
-
+.menu-option .layout h3{
+    padding: 10px 0px 0px 0px;
+}
 .light {
     background-color: #f4f4f4;
 }
@@ -345,6 +347,9 @@ textarea{
 .address .contact-box h3{
     font-size: 1.2rem;
     padding-top: 10px;
+}
+.address .contact-box p{
+    margin: 0px;
 }
 .address .contact-box a{
     color: #fff;
